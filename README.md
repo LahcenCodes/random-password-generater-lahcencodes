@@ -1,2 +1,2 @@
-# random-password-generater-lahcencodes
+# Random Password Generator
 Random Password Generator
